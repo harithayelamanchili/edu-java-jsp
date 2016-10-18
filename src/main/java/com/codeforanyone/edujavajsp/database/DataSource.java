@@ -16,7 +16,7 @@ import org.apache.commons.dbcp2.BasicDataSource;
  * A helper class for getting database connections from a persistent connection
  * pool.
  * 
- * @author jennybrown
+ *
  *
  */
 public class DataSource {
