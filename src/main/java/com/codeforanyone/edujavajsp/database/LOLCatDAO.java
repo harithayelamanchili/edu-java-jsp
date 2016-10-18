@@ -22,7 +22,7 @@ import com.codeforanyone.edujavajsp.model.LOLCat;
  * We're not using an interface because we don't need to implement more than one
  * of these for different databases.
  * 
- * @author jennybrown
+ * 
  *
  */
 public class LOLCatDAO {
