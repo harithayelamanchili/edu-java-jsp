@@ -13,15 +13,7 @@ import com.codeforanyone.edujavajsp.database.LOLCatDAO;
 import com.codeforanyone.edujavajsp.model.CatNotFoundException;
 import com.codeforanyone.edujavajsp.model.LOLCat;
 
-/**
- * Shows a random lolcat image to a visitor, and provides menu behaviors for
- * login, logout, and profile. This is a demonstration of form-based
- * authentication, as well as layers of code for retrieving data from a
- * database.
- * 
- * @author jennybrown
- *
- */
+
 public class LOLCatDisplayServlet extends HttpServlet {
 
 	@Override
