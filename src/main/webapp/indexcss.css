@@ -4,6 +4,8 @@ body {
 	margin: 0 auto;
 	background-color: lightgrey;
 	font-size: 100%;
+	border-style: double;
+    border-width: medium;
 }
 
 
