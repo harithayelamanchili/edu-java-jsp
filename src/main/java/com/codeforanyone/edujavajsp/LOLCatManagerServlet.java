@@ -24,7 +24,7 @@ import com.codeforanyone.edujavajsp.model.LOLCat;
  * Handles all the features that let a logged-in administrator add and remove
  * lolcat images.
  * 
- * @author jennybrown
+ *
  *
  */
 @MultipartConfig // enables file-upload from multipart html forms

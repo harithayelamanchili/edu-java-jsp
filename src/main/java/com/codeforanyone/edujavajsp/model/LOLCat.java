@@ -6,7 +6,7 @@ package com.codeforanyone.edujavajsp.model;
  * business domain object, or a bean (all are true and mean essentially the same
  * thing in this case).
  * 
- * @author jennybrown
+ * 
  *
  */
 public class LOLCat {
