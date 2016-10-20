@@ -5,7 +5,7 @@
 <h1>LOLCats Edit</h1>
 
 <p>Edit a LOLCat</p>
-<form method=POST action="//lolcats/manage/add" enctype="multipart/form-data">
+<form method=POST action="//lolcats/manage/edit" enctype="multipart/form-data">
 <table border="0" bgcolor="#EEEEEE" cellpadding="20" cellspacing="0">
 <tr><td>Title</td><td><input type=text name="title" size="60"></td></tr>
 <tr><td>Filename</td><td><input type=text name="filename" size="10"></td></tr>
