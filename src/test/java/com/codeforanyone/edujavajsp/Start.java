@@ -12,7 +12,7 @@ public class Start {
 		// Create a basic jetty server object that will listen on port 8080.
 		Server server = new Server(8080);
 
-		// Tell it where to find the code and jsps relative to our project.
+		// Tell it where to find the code and jsps relative to the project.
 		WebAppContext bb = new WebAppContext();
 		bb.setServer(server);
 		//bb.setContextPath("/edujsp");
