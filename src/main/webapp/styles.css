@@ -1,0 +1,29 @@
+body {
+	width: 100%;
+	max-width: 1024px;
+	margin: 0 auto;
+	background-color: lightblue;
+	font-size: 100%;
+}
+
+
+
+header h1 {
+	text-align: center;
+}
+
+h1, h2{
+	margin: 0;
+}
+
+
+
+
+
+p {
+	padding: 1.25em;
+}
+
+
+	
+}
